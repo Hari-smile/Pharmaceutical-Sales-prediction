@@ -1,1 +1,1 @@
-# Pharmaceutical-Sales-prediction
+# rossman_sales_prediction_nexthikes

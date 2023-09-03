@@ -1,0 +1,24 @@
+2023-09-03 12:54:19,769 - INFO - This is an informational message.
+2023-09-03 12:54:19,772 - WARNING - This is a warning message.
+2023-09-03 12:54:19,773 - ERROR - This is an error message.
+2023-09-03 12:54:19,785 - ERROR - Error occurred during 'do_something' function.
+Traceback (most recent call last):
+  File "C:\Users\Win10\AppData\Local\Temp\ipykernel_7516\1588697528.py", line 11, in do_something
+    result = 10 / 0  # Trigger a ZeroDivisionError for demonstration
+ZeroDivisionError: division by zero
+2023-09-03 12:56:21,377 - INFO - This is an informational message.
+2023-09-03 12:56:21,381 - WARNING - This is a warning message.
+2023-09-03 12:56:21,382 - ERROR - This is an error message.
+2023-09-03 12:56:21,393 - ERROR - Error occurred during 'do_something' function.
+Traceback (most recent call last):
+  File "C:\Users\Win10\AppData\Local\Temp\ipykernel_8152\1588697528.py", line 11, in do_something
+    result = 10 / 0  # Trigger a ZeroDivisionError for demonstration
+ZeroDivisionError: division by zero
+2023-09-03 12:59:18,834 - INFO - this is info
+2023-09-03 12:59:18,850 - WARNING - this is warning
+2023-09-03 12:59:18,865 - ERROR - This is error
+2023-09-03 12:59:18,882 - CRITICAL - this is critical
+2023-09-03 12:59:18,897 - INFO - This is an info message
+2023-09-03 12:59:18,897 - WARNING - This is a warning message
+2023-09-03 12:59:18,897 - ERROR - This is an error message
+2023-09-03 12:59:18,897 - CRITICAL - This is a critical message

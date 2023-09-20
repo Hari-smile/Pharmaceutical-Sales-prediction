@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Pharmaceutical_sales-project/mlruns/0/bb33172b778a4e559e3aed96eb94e417/artifacts
+end_time: 1695148613992
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bb33172b778a4e559e3aed96eb94e417
+run_name: masked-shrike-158
+run_uuid: bb33172b778a4e559e3aed96eb94e417
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695148613834
+status: 4
+tags: []
+user_id: Win10
